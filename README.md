@@ -1,1 +1,1 @@
-# Patient-Monitoring-System
+In this project we can measure patient BPM and Temperature. We also store the Patient data in database for monitoring. Moreover, when patient measuring BPM and Temperature if the situation is critical then the automatically send the message to doctor and email as well.
